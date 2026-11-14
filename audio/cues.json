@@ -1,0 +1,6 @@
+{"dur": 10.9,
+ "music": {"chords": [[0, "am"], [6.9, "f"]], "peak": -22},
+ "cues": [{"t": 0.15, "type": "drill"}, {"t": 1.45, "type": "drill"}, {"t": 1.18, "type": "tick"},
+          {"t": 2.3, "type": "whoosh", "len": 0.45}, {"t": 3.55, "type": "boing"}, {"t": 4.2, "type": "whoosh", "len": 0.75},
+          {"t": 4.6, "type": "crickets", "len": 2.3}, {"t": 6.45, "type": "whoosh", "len": 0.8},
+          {"t": 8.15, "type": "fuse", "len": 1.9}, {"t": 10.05, "type": "boom"}]}

@@ -1,0 +1,8 @@
+const PHRASES: [number, number, string][] = [
+  [0.02, 2.56, "él taladró ochenta y dos agujeros en un carro."],
+  [3.10, 4.22, "todos se rieron de él."],
+  [4.69, 5.45, "pero esa noche,"],
+  [5.67, 6.52, "nadie durmió..."],
+  [6.97, 7.88, "porque, verás,"],
+  [8.14, 10.04, "cada agujero escondía un cohete."],
+];

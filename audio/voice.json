@@ -1,0 +1,15 @@
+{
+  "_note": "Series narrator. Keep ONE voice for the whole channel. Generated through the vidIQ voiceover connector (ElevenLabs premade voice, multilingual, reads Spanish). Cost there: 28 credits per 1000 characters.",
+  "provider": "vidiq_voiceover_generate",
+  "voice_name": "Liam - Energetic, Social Media Creator",
+  "voice_id": "TX3LPaxmHKxFdv7VOQHJ",
+  "language": "es",
+  "post_speed_atempo": 1.12,
+  "post_command": "ffmpeg -i vo_raw.mp3 -af atempo=1.12 -ar 48000 -ac 1 vo.wav",
+  "script_rules": [
+    "numbers as words (ochenta y dos, not 82)",
+    "~200-220 words per 60 s after the 1.12 speed-up",
+    "write pauses as sentence ends or commas: vo_timing.py splits phrases on them"
+  ],
+  "elevenlabs_direct": "Same voice_id works with the elevenlabs-tts skill if an ELEVENLABS_API_KEY is configured (model eleven_multilingual_v2)."
+}

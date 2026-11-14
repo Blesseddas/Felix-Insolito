@@ -1,0 +1,73 @@
+{
+  "personaje": "[NOMBRE]",
+  "tipo": "persona_conocida_o_original",
+  "referencias": [
+    "foto_usuario_opcional",
+    "assets/felix-referencia.jpeg"
+  ],
+  "rasgos": {
+    "rostro": "[GEOMETRIA]",
+    "cabello": "[COLOR FORMA MECHONES]",
+    "ojos": "[RASGO]",
+    "gafas": "[SI/NO]",
+    "vello_facial": "[SI/NO]"
+  },
+  "vestuario": {
+    "descripcion": "[ROPA GENERICA SIN MARCAS]",
+    "logos_permitidos": false
+  },
+  "piernas_y_zapatos": {
+    "tipo": "stickman_muy_fino",
+    "zapatos": "pequenos_bajos_sencillos_oscuros_estilo_felix"
+  },
+  "hoja": {
+    "vistas": [
+      "frontal",
+      "tres_cuartos_frontal",
+      "perfil_derecho",
+      "trasera",
+      "tres_cuartos_trasera"
+    ],
+    "expresiones": [
+      "neutral",
+      "feliz",
+      "serio",
+      "sorprendido",
+      "pensativo",
+      "confiado",
+      "molesto",
+      "sarcastico"
+    ],
+    "poses": [
+      "explicar",
+      "senalar",
+      "pensar",
+      "caminar",
+      "sostener_objeto_generico"
+    ],
+    "formato": "16:9_horizontal_obligatorio",
+    "resolucion_recomendada_px": [
+      3840,
+      2160
+    ],
+    "resolucion_minima_px": [
+      1920,
+      1080
+    ],
+    "fondo": {
+      "color_hex": "#00FF00",
+      "tipo": "chroma_key_verde_plano",
+      "obligatorio_en_todos_los_paneles": true,
+      "degradados_permitidos": false,
+      "transparencia_permitida": false
+    }
+  },
+  "verificacion": {
+    "mismo_personaje_todas_las_vistas": false,
+    "pies_estilo_felix": false,
+    "cero_marcas_ni_logos": false,
+    "rostro_angular": false,
+    "formato_horizontal_16_9_exacto": false,
+    "fondo_verde_00ff00_en_todos_los_personajes": false
+  }
+}
