@@ -7,10 +7,10 @@ Partimos de la transcripción de un vídeo de tendencia (no se copia: el guion e
 | Nvidia fue la primera empresa en valer más de 5 billones de dólares (29-oct-2025) | Confirmado | Dato directo |
 | De adolescente fregó platos y limpió baños en Denny's | Confirmado (lo ha contado él) | Dato directo |
 | Fundó Nvidia en 1993 con dos amigos en un reservado de Denny's | Confirmado | Dato directo |
-| Tatuaje del logo cuando la acción llegó a 100 $ | Dato conocido, pendiente de fuente en este archivo | Verificar antes de grabar la voz |
-| CUDA (2006): sus chips de videojuegos también para ciencia | Dato conocido, pendiente de fuente | Verificar |
-| 2012: una IA entrenada con dos tarjetas de videojuegos gana un concurso de imágenes (AlexNet) | Dato conocido, pendiente de fuente | Verificar |
-| Lisa Su (AMD) es "su prima" | Inexacto: son parientes lejanos | Decir "pariente" |
+| Tatuaje del logo (hombro izquierdo) cuando la acción llegó a 100 $ (antes de las divisiones de acciones) | Confirmado (Business Insider, Benzinga) | Dato directo; no mostrar el logo real |
+| CUDA: chips de videojuegos también para ciencia | Confirmado: anunciado en 2006 (G80), kit público en 2007 | "En dos mil seis hace una apuesta…" |
+| 2012: AlexNet, entrenada con dos GTX 580, gana el concurso ImageNet | Confirmado (Wikipedia y fuentes técnicas) | Dato directo |
+| Lisa Su (AMD) es "su prima" | Inexacto: primos segundos ("first cousins once removed"), confirmado por Nvidia a CNN | No se usa en el guion v1 |
 | El FBI investiga; empresa Megaspeed (no "Megape") investigada por contrabando de chips | Reportado | Como alegación, con fuente |
 | Relación con una presunta espía y otra con una vicepresidenta; pidió perdón | Reportado por The New York Times | "Según The New York Times…" |
 | "Perdió casi 200 mil millones en un día" | No confirmado (caídas de 4–7 %, unos 570 mil millones en una semana) | No usar la cifra |
@@ -30,4 +30,7 @@ ellos quizá él no existiría.
 - NBC (Megaspeed): https://www.nbcnews.com/tech/tech-news/megaspeed-statement-nvidia-jensen-huang-alice-us-exports-chips-china-rcna608939
 - NBC (DOJ): https://www.nbcnews.com/tech/tech-news/nvidia-investigation-justice-fbi-commerce-jensen-huang-alice-china-rcna608397
 - Fox Business (5 billones): https://www.foxbusiness.com/markets/nvidia-becomes-first-company-hit-5-trillion-market-valuation-ai-boom-drives-historic-growth
+- Business Insider (tatuaje): https://businessinsider.in/tech/news/jensen-huang-who-got-an-nvidia-tattoo-when-its-share-price-hit-100-says-hes-not-getting-inked-again/amp_articleshow/104852213.cms
+- Wikipedia (AlexNet): https://en.wikipedia.org/wiki/AlexNet
+- Tom's Hardware (Lisa Su): https://www.tomshardware.com/news/jensen-huang-and-lisa-su-family-tree-shows-how-closely-they-are-related
 - Fortune (Denny's): https://fortune.com/2024/08/28/nvidias-billionaire-boss-i-used-to-clean-bathrooms-and-now-im-the-ceo/
