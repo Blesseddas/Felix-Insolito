@@ -49,5 +49,7 @@ look in every frame; no new text, no logos.* Duración 4–5 s, audio apagado.
 | Plano | Imagen | Revisada | Clip | Revisado | Créditos |
 |---|---|---|---|---|---|
 | P01 | ✅ | ✅ | Prueba Kling | ✅ | 320 |
-| P02 | En curso (director) | | | | |
-| P03–P16 | | | | | |
+| P02 | ✅ v1 (ChatGPT) | ✅ | | | 0 |
+| P03 | ✅ Artlist | ✅ | | | 100 |
+| P04 | ✅ Artlist | ✅ | | | 100 |
+| P05–P16 | | | | | |
