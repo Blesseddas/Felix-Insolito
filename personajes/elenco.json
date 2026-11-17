@@ -1,0 +1,44 @@
+{
+  "universo": "Félix Insólito",
+  "estilo": "skills/stickman-3d-personajes-premium",
+  "personajes": [
+    {
+      "id": "felix",
+      "nombre": "Félix Insólito",
+      "tipo": "original",
+      "rol": "presentador del canal",
+      "edad": "adulto",
+      "hoja": "personajes/felix-referencia.jpeg",
+      "rasgos": ["cara larga y facetada", "melena casco rubia con flequillo recto", "bigote en espiral", "ojos azules entrecerrados", "traje de cuadros marrón", "corbata a rayas roja y azul", "piernas finísimas"],
+      "episodios": ["ep01"]
+    },
+    {
+      "id": "jensen-adolescente",
+      "nombre": "Jensen Huang (adolescente)",
+      "tipo": "persona_real_caricatura",
+      "edad": "~16 años, años 70",
+      "hoja": "personajes/jensen-adolescente-hoja.webp",
+      "rasgos": ["pelo negro despeinado", "sin gafas", "camiseta de rayas crema, roja y azul", "lunar en la mejilla"],
+      "episodios": ["ep01"]
+    },
+    {
+      "id": "jensen-joven",
+      "nombre": "Jensen Huang (joven)",
+      "tipo": "persona_real_caricatura",
+      "edad": "~30 años, años 90",
+      "hoja": "personajes/jensen-joven-hoja.png",
+      "rasgos": ["pelo negro con raya", "gafas rectangulares", "camisa azul clara arremangada", "pantalón marrón"],
+      "episodios": ["ep01"]
+    },
+    {
+      "id": "jensen-adulto",
+      "nombre": "Jensen Huang (adulto)",
+      "tipo": "persona_real_caricatura",
+      "edad": "~60 años, 2010-2026",
+      "hoja": "personajes/jensen-adulto-hoja.png",
+      "hoja_alternativa": "personajes/jensen-huang-hoja.webp",
+      "rasgos": ["pelo plateado peinado hacia atrás", "gafas rectangulares", "chaqueta de cuero negra lisa", "camiseta negra"],
+      "episodios": ["ep01"]
+    }
+  ]
+}

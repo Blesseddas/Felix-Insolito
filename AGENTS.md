@@ -3,6 +3,8 @@
 Válido para ChatGPT, Gemini, Claude y cualquier otro agente. Si una regla choca con una petición, pregunta al director.
 
 ## Personajes
+- **Elenco del universo Félix:** `personajes/elenco.md` y `personajes/elenco.json`. Toda hoja de personaje nueva se sube a
+  `personajes/` y se registra ahí en cuanto se aprueba, para reutilizarla en episodios futuros.
 - Siempre con su hoja de referencia adjunta: `personajes/felix-referencia.jpeg` (Félix Insólito, presentador) y
   `personajes/jensen-huang-hoja.webp` (Jensen Huang). No inventar cabeza, peinado, bigote, ropa ni proporciones.
 - Estilo Stickman 3D premium (`skills/stickman-3d-personajes-premium/`): cara angular y facetada, pelo
