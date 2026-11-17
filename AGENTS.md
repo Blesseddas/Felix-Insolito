@@ -1,5 +1,7 @@
 # Reglas para cualquier IA que trabaje en este repositorio
 
+**Lista de control obligatoria:** `skills/felix-insolito-produccion/SKILL.md`. Se revisa antes de cada paso.
+
 Válido para ChatGPT, Gemini, Claude y cualquier otro agente. Si una regla choca con una petición, pregunta al director.
 
 ## Personajes
