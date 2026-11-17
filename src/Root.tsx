@@ -10,6 +10,7 @@ import { PopShort, POP_FRAMES } from "./demo/PopShort";
 import { FelixPrueba, FELIX_PRUEBA_FRAMES } from "./felix/FelixPrueba";
 import { Turnaround } from "./felix/Turnaround";
 import { ImagenAnimada, IMAGEN_ANIMADA_FRAMES } from "./felix/ImagenAnimada";
+import { PruebaMontaje10s, PRUEBA_MONTAJE_FRAMES } from "./felix/PruebaMontaje10s";
 
 // DemoHero: a low hero framing with foreground props. Demo: one still. Demo-<mood>: the same frame in each act light. DemoWide: the whole set.
 // DemoCast: the three example characters in a row (a landscape family sheet).
@@ -38,5 +39,6 @@ export const Root: React.FC = () => (
     <Composition id="SheetJensen" component={Turnaround} durationInFrames={1} fps={30} width={1920} height={1080} defaultProps={{ who: "jensen" as const, heads: false }} />
     <Composition id="SheetJensenHeads" component={Turnaround} durationInFrames={1} fps={30} width={1920} height={1080} defaultProps={{ who: "jensen" as const, heads: true }} />
     <Composition id="ImagenAnimada" component={ImagenAnimada} durationInFrames={IMAGEN_ANIMADA_FRAMES} fps={30} width={1080} height={1920} />
+    <Composition id="PruebaMontaje10s" component={PruebaMontaje10s} durationInFrames={PRUEBA_MONTAJE_FRAMES} fps={30} width={1080} height={1920} />
   </>
 );
