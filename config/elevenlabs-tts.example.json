@@ -1,0 +1,20 @@
+{
+  "_nota": "Copia este archivo a config/local/elevenlabs-tts.json (no se sube) y pon el nombre o el id de la voz elegida en ElevenLabs. La clave va en .env como ELEVENLABS_API_KEY=... (tampoco se sube).",
+  "default_profile": "felix",
+  "profiles": {
+    "felix": {
+      "voice_name": "NOMBRE DE LA VOZ ELEGIDA EN ELEVENLABS",
+      "voice_id": "",
+      "model_id": "eleven_multilingual_v2",
+      "output_format": "mp3_44100_128",
+      "voice_settings": {
+        "stability": 0.45,
+        "similarity_boost": 0.85,
+        "style": 0.25,
+        "speed": 1.05,
+        "use_speaker_boost": true
+      },
+      "output_dir": "audio"
+    }
+  }
+}

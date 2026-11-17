@@ -8,3 +8,5 @@ build/
 Thumbs.db
 # renders y secuencias temporales
 *_seq/
+config/local/
+audio/**/*.wav
