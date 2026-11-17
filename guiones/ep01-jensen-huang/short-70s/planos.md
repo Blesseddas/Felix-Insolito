@@ -45,6 +45,15 @@ Guía: `docs/estilo-mundo.md`.
 Añadir siempre al final: *Keep every character, outfit and set exactly as in the image; keep the premium 3D cartoon
 look in every frame; no new text, no logos.* Duración 4–5 s, audio apagado.
 
+## Transiciones: el televisor es la puerta a la historia (decisión del director, 17-nov)
+- **P02 → P03, entrar en la pantalla:** al final del P02 la cámara se acerca a la pantalla del plató hasta que la
+  pantalla llena el cuadro; la imagen de Jensen adulto se funde con el P03 (Jensen adolescente) y seguimos dentro
+  del recuerdo a pantalla completa. Se hace en el montaje (Remotion), sin créditos.
+- **P11 → P12, salir de la pantalla:** el último fotograma del P11 se encoge dentro de la pantalla del plató y la
+  cámara se aleja hasta Félix (luz azul). Mismo método.
+- Entre los recuerdos (P03–P11) los cambios son cortes por movimiento de cámara, sin volver al plató.
+- Si en el futuro Félix vuelve a mitad de la historia, se repite el mismo gesto: entrar o salir por la pantalla.
+
 ## Seguimiento
 | Plano | Imagen | Revisada | Clip | Revisado | Créditos |
 |---|---|---|---|---|---|
