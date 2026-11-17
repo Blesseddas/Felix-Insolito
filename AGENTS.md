@@ -23,6 +23,11 @@ Válido para ChatGPT, Gemini, Claude y cualquier otro agente. Si una regla choca
 - **Voz:** ElevenLabs, una sola voz para todo el canal (configuración en `config/elevenlabs-tts.example.json`; la
   clave va en `.env`, que no se sube).
 
+## Formato y movimiento (decisión del director, 17-nov-2026)
+- **Solo Shorts de unos 70 s** hasta monetizar el canal; los vídeos largos vienen después.
+- **Todo plano con personas va animado** (Kling v3). Una imagen fija con movimiento de cámara en Remotion solo se
+  permite para **lugares u objetos** sin personas.
+
 ## Créditos de Artlist: no malgastar
 1. **Nunca usar los ajustes por defecto.** Por defecto Artlist pone 10 s y audio: un clip de Seedance salía a 2.000–5.000
    créditos. Fijar siempre duración (3–5 s) y **audio apagado** (la voz va aparte con ElevenLabs).
