@@ -5,6 +5,16 @@ Método: skill `laboratorio-guiones-curiopedia` (7 puertas, gancho triple, 8 eta
 como reportes con fuente. **Estado: borrador. No se escribe el guion hasta aprobar este esquema.**
 Datos estructurados en [brief.json](brief.json) (14 afirmaciones con fuente y estado).
 
+## Enfoque evergreen (pedido del director)
+La historia tiene que funcionar igual dentro de años: es la **biografía completa** (subida y caída), no una noticia.
+- **Nada de «última hora», «acaba de», «hoy», «esta semana».** Siempre fechas absolutas: «en noviembre de 2026».
+- La renuncia es el **final de la historia**, no el gancho de actualidad. El plató de Félix se usa como lugar del
+  narrador, no como noticiario.
+- La caída se cuenta con lo que no caduca: hubo reportes, hubo perdón público, hubo investigación y renunció.
+  Sin detalles que puedan cambiar (nombres de investigadas, cifras de bolsa del día). Si las investigaciones se
+  resuelven, se actualiza el comentario fijado y la descripción, no el vídeo.
+- El Short de noticias (si se publica) puede ir con tono de actualidad; el vídeo largo, no.
+
 ## Puerta 1 — Tres ángulos (y el elegido)
 | Ángulo | Pregunta | Final |
 |---|---|---|
@@ -24,21 +34,22 @@ ni existiría».
 | T3 | Vendía palas en la fiebre del oro de la IA | Jensen en su puesto de palas doradas, el suelo agrietándose. Texto: ninguno |
 
 ## Gancho triple (elige uno; los tres en brief.json)
-- **G1 (recomendado):** «El hombre del que depende toda la inteligencia artificial acaba de dejarlo todo. Y su
-  historia empieza… fregando platos.» · Pantalla: corona que se convierte en esponja · Texto: «33 AÑOS».
-- **G2:** «Hace treinta años, a esta empresa le quedaba un mes de vida…» · Calendario de 30 días · «30 DÍAS».
-- **G3:** «Todos buscaban oro. Él vendía las palas…» · Puesto de palas y suelo que se abre · sin texto.
+- **G1 (recomendado):** «Este hombre fregaba platos. Construyó la empresa de la que depende toda la inteligencia
+  artificial. Y después de treinta y tres años… lo perdió todo.» · Pantalla: esponja que se convierte en corona y la
+  corona se agrieta · Texto: «33 AÑOS».
+- **G2:** «A esta empresa le quedaba un mes de vida. Llegó a valer más que países enteros…» · Calendario de 30 días · «30 DÍAS».
+- **G3:** «Todos buscaban oro. Él vendía las palas. Y al final, la fiebre del oro se lo tragó a él.» · Puesto de palas y suelo que se abre · sin texto.
 
 ## Puerta 3 — Esquema en 8 bloques (240 s)
 | Bloque | Tiempo | Pregunta | Pista (setup) | Recompensa (payoff) | Enganche hacia el siguiente |
 |---|---|---|---|---|---|
-| 1 Gancho | 0:00–0:20 | ¿Por qué renuncia el rey de la IA? | La corona y la esponja | La paradoja en 20 s | «Para entenderlo hay que volver a una cocina» |
+| 1 Gancho | 0:00–0:20 | ¿Cómo pierde el trono el rey de la IA? | La esponja y la corona | La paradoja en 20 s | «Para entenderlo hay que volver a una cocina» |
 | 2 Denny's | 0:20–0:50 | ¿Quién era antes? | **El reservado rojo** | Platos, baños y la humildad que él mismo cuenta | En ese reservado nace una empresa… |
 | 3 Casi quiebra | 0:50–1:25 | ¿Cómo sobrevive con un mes de caja? | El primer chip falla | Sega convierte un pago en 5 millones; el siguiente chip la salva | Ya sobrevivió; ahora hace algo que nadie entiende |
 | 4 La apuesta | 1:25–2:00 | ¿Por qué chips de videojuegos para ciencia? | **Los chips de videojuegos** | Años de inversión que casi nadie usa | «Hasta que dos tarjetas lo cambian todo» |
 | 5 2012 | 2:00–2:35 | ¿Qué hizo que todos quisieran sus chips? | — | Se cumple la pista del bloque 4; «vende las palas» | ¿Hasta dónde puede subir alguien así? |
 | 6 La cima | 2:35–3:00 | ¿Hasta dónde llegó? | La corona | 5 billones, la chaqueta, el tatuaje, la prima lejana de AMD | «Pero todo rey tiene su punto débil» |
-| 7 La caída | 3:00–3:40 | ¿Cómo pierde el trono? | — | Reportes del NYT, perdón, FBI, renuncia del 12-nov | Félix vuelve a plano |
+| 7 La caída | 3:00–3:40 | ¿Cómo pierde el trono? | — | Noviembre de 2026: reportes del NYT, perdón, FBI, renuncia tras 33 años | Félix vuelve a plano |
 | 8 Cierre | 3:40–4:00 | ¿Qué queda de él? | — | Se cierran las pistas de los bloques 2 y 4: el chip en la mano de Félix | Fin sin despedida larga |
 
 **Cuatro ideas nuevas frente al Short:** la casi quiebra y el rescate de Sega, por qué la apuesta de 2006 parecía

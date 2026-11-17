@@ -13,19 +13,19 @@
   "hooks": [
     {
       "id": "G1",
-      "verbal": "El hombre del que depende toda la inteligencia artificial acaba de dejarlo todo. Y su historia empieza fregando platos.",
+      "verbal": "Este hombre fregaba platos. Construyó la empresa de la que depende toda la inteligencia artificial. Y después de treinta y tres años, lo perdió todo.",
       "visual": "Félix en el plató; la pantalla pasa de una corona dorada a una esponja de fregar.",
       "textual": "33 AÑOS"
     },
     {
       "id": "G2",
-      "verbal": "Hace 30 años, a esta empresa le quedaba un mes de vida. Hoy vale más que países enteros. Y su jefe acaba de renunciar.",
+      "verbal": "A esta empresa le quedaba un mes de vida. Llegó a valer más que países enteros. Y su fundador acabó perdiéndolo todo.",
       "visual": "Un calendario arrancando hojas hasta 30 días; corte a una montaña de chips dorados.",
       "textual": "30 DÍAS"
     },
     {
       "id": "G3",
-      "verbal": "Todos buscaban oro. Él vendía las palas. Y la fiebre del oro… se lo acaba de tragar.",
+      "verbal": "Todos buscaban oro. Él vendía las palas. Y al final, la fiebre del oro se lo tragó a él.",
       "visual": "Jensen tras su puesto de palas doradas; el suelo del cañón se abre bajo el puesto.",
       "textual": "NINGUNO"
     }
@@ -35,8 +35,8 @@
       "id": "B1-gancho",
       "start_seconds": 0,
       "end_seconds": 20,
-      "question": "¿Por qué renuncia el hombre más importante de la IA?",
-      "payoff": "La paradoja en 20 s: el rey se va tras 33 años, y empezó fregando platos.",
+      "question": "¿Cómo pierde el trono el hombre más importante de la IA?",
+      "payoff": "La paradoja en 20 s: de fregar platos a rey de la IA, y la caída tras 33 años.",
       "visual_object": "Plató de Félix, pantalla con corona que se convierte en esponja",
       "factual_status": "verificado"
     },
@@ -90,7 +90,7 @@
       "start_seconds": 180,
       "end_seconds": 220,
       "question": "¿Cómo pierde el trono?",
-      "payoff": "Según The New York Times: sospecha de espionaje, otra relación, perdón público, investigación del FBI; renuncia el 12 de noviembre.",
+      "payoff": "En noviembre de 2026, según The New York Times: sospecha de espionaje, otra relación, perdón público, investigación del FBI; renuncia tras 33 años.",
       "visual_object": "Periódico genérico, carpeta CONFIDENCIAL, nota PERDÓN, silla vacía con corona",
       "factual_status": "reportado (alegaciones con fuente)"
     },
