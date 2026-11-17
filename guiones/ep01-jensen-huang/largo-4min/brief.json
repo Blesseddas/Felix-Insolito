@@ -1,0 +1,128 @@
+{
+  "project": "Félix Insólito",
+  "episode_id": "ep01-largo",
+  "format": "Vídeo largo horizontal 16:9 (versión vertical para Shorts recortados), narrado por Félix",
+  "target_seconds": 240,
+  "target_words_es": "550-600",
+  "controlling_idea": "Un chico que fregaba platos construyó la empresa de la que depende toda la inteligencia artificial, gracias a una apuesta que nadie entendía; 33 años después lo pierde todo por lo que no estaba en los chips.",
+  "question_families": [
+    "¿Cómo llega un lavaplatos a rey de la IA?",
+    "¿Por qué todo el mundo depende de sus chips?",
+    "¿Cómo lo pierde?"
+  ],
+  "hooks": [
+    {
+      "id": "G1",
+      "verbal": "El hombre del que depende toda la inteligencia artificial acaba de dejarlo todo. Y su historia empieza fregando platos.",
+      "visual": "Félix en el plató; la pantalla pasa de una corona dorada a una esponja de fregar.",
+      "textual": "33 AÑOS"
+    },
+    {
+      "id": "G2",
+      "verbal": "Hace 30 años, a esta empresa le quedaba un mes de vida. Hoy vale más que países enteros. Y su jefe acaba de renunciar.",
+      "visual": "Un calendario arrancando hojas hasta 30 días; corte a una montaña de chips dorados.",
+      "textual": "30 DÍAS"
+    },
+    {
+      "id": "G3",
+      "verbal": "Todos buscaban oro. Él vendía las palas. Y la fiebre del oro… se lo acaba de tragar.",
+      "visual": "Jensen tras su puesto de palas doradas; el suelo del cañón se abre bajo el puesto.",
+      "textual": "NINGUNO"
+    }
+  ],
+  "segments": [
+    {
+      "id": "B1-gancho",
+      "start_seconds": 0,
+      "end_seconds": 20,
+      "question": "¿Por qué renuncia el hombre más importante de la IA?",
+      "payoff": "La paradoja en 20 s: el rey se va tras 33 años, y empezó fregando platos.",
+      "visual_object": "Plató de Félix, pantalla con corona que se convierte en esponja",
+      "factual_status": "verificado"
+    },
+    {
+      "id": "B2-dennys",
+      "start_seconds": 20,
+      "end_seconds": 50,
+      "question": "¿Quién era antes de ser rey?",
+      "payoff": "Un adolescente que limpiaba baños en un Denny's; el reservado donde nacerá todo queda sembrado.",
+      "visual_object": "Cocina de restaurante genérico, pila de platos, reservado rojo",
+      "factual_status": "verificado"
+    },
+    {
+      "id": "B3-casi-quiebra",
+      "start_seconds": 50,
+      "end_seconds": 85,
+      "question": "¿Cómo sobrevive una empresa a la que le queda un mes?",
+      "payoff": "Su primer chip fracasa; Sega convierte un pago en 5 millones de inversión y el siguiente chip la salva.",
+      "visual_object": "Calendario de 30 días, chip roto, maletín de 5 millones",
+      "factual_status": "verificado (cifra de días aproximada)"
+    },
+    {
+      "id": "B4-apuesta-2006",
+      "start_seconds": 85,
+      "end_seconds": 120,
+      "question": "¿Por qué hace chips de videojuegos para científicos?",
+      "payoff": "Apuesta años y dinero en que sus chips sirvan para la ciencia; casi nadie lo usa (pista sembrada).",
+      "visual_object": "Laboratorio con tarjeta gráfica, científicos escépticos, hucha vaciándose",
+      "factual_status": "verificado"
+    },
+    {
+      "id": "B5-2012",
+      "start_seconds": 120,
+      "end_seconds": 155,
+      "question": "¿Qué hizo que todo el mundo quisiera sus chips?",
+      "payoff": "Dos tarjetas de videojuegos entrenan la IA que gana un concurso de imágenes: la apuesta de 2006 cobra sentido; él vende las palas.",
+      "visual_object": "Dormitorio con PC abierto y dos tarjetas; cañón de la fiebre del oro",
+      "factual_status": "verificado"
+    },
+    {
+      "id": "B6-cima",
+      "start_seconds": 155,
+      "end_seconds": 180,
+      "question": "¿Hasta dónde llegó?",
+      "payoff": "Primera empresa de cinco billones; misma chaqueta, logo tatuado; y su rival de AMD es pariente lejana.",
+      "visual_object": "Escenario con cifra gigante, chaqueta de cuero, tatuaje genérico, árbol genealógico",
+      "factual_status": "verificado"
+    },
+    {
+      "id": "B7-caida",
+      "start_seconds": 180,
+      "end_seconds": 220,
+      "question": "¿Cómo pierde el trono?",
+      "payoff": "Según The New York Times: sospecha de espionaje, otra relación, perdón público, investigación del FBI; renuncia el 12 de noviembre.",
+      "visual_object": "Periódico genérico, carpeta CONFIDENCIAL, nota PERDÓN, silla vacía con corona",
+      "factual_status": "reportado (alegaciones con fuente)"
+    },
+    {
+      "id": "B8-cierre",
+      "start_seconds": 220,
+      "end_seconds": 240,
+      "question": "¿Qué queda de él?",
+      "payoff": "Félix: si hoy puede contar esto es gracias a esos chips; sin ellos quizá él no existiría.",
+      "visual_object": "Félix con un chip brillante en la mano; en la pantalla, un Félix hecho de luz",
+      "factual_status": "opinión del presentador"
+    }
+  ],
+  "claims": [
+    {"id": "C01", "text": "Renunció el 12-nov-2026 tras 33 años; Colette Kress CEO interina", "status": "verificado", "source": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"},
+    {"id": "C02", "text": "De adolescente fregó platos y limpió baños en Denny's", "status": "verificado", "source": "https://fortune.com/2024/08/28/nvidias-billionaire-boss-i-used-to-clean-bathrooms-and-now-im-the-ceo/"},
+    {"id": "C03", "text": "Fundó Nvidia en 1993 con dos socios en un reservado de Denny's", "status": "verificado", "source": "https://fortune.com/2024/08/28/nvidias-billionaire-boss-i-used-to-clean-bathrooms-and-now-im-the-ceo/"},
+    {"id": "C04", "text": "El primer chip (NV1) fracasó y la empresa quedó con muy poca caja (en torno a un mes)", "status": "verificado (cifra aproximada)", "source": "https://www.tomshardware.com/news/nvidia-wouldnt-exist-if-ceo-could-turn-the-clock-back-30-years"},
+    {"id": "C05", "text": "Sega convirtió un pago pendiente en una inversión de 5 millones de dólares", "status": "verificado", "source": "https://thenextweb.com/news/nvidia-sega-1995-5-million-rescue"},
+    {"id": "C06", "text": "El RIVA 128 (1997) salvó a la empresa", "status": "verificado", "source": "https://moneywise.com/news/investing/nvidia-jensen-huang-riva-128-gamble-saved-company"},
+    {"id": "C07", "text": "CUDA: anunciado en 2006, kit público en 2007; chips de videojuegos para ciencia", "status": "verificado", "source": "https://en.wikipedia.org/wiki/CUDA"},
+    {"id": "C08", "text": "2012: AlexNet, entrenada con dos GTX 580, gana ImageNet", "status": "verificado", "source": "https://en.wikipedia.org/wiki/AlexNet"},
+    {"id": "C09", "text": "Primera empresa en valer más de 5 billones de dólares (29-oct-2025)", "status": "verificado", "source": "https://www.foxbusiness.com/markets/nvidia-becomes-first-company-hit-5-trillion-market-valuation-ai-boom-drives-historic-growth"},
+    {"id": "C10", "text": "Tatuaje del logo cuando la acción llegó a 100 $", "status": "verificado", "source": "https://businessinsider.in/tech/news/jensen-huang-who-got-an-nvidia-tattoo-when-its-share-price-hit-100-says-hes-not-getting-inked-again/amp_articleshow/104852213.cms"},
+    {"id": "C11", "text": "Lisa Su (AMD) es pariente lejana (primos segundos)", "status": "verificado", "source": "https://www.tomshardware.com/news/jensen-huang-and-lisa-su-family-tree-shows-how-closely-they-are-related"},
+    {"id": "C12", "text": "Según el NYT, EE. UU. sospecha que una mujer con la que tuvo una relación trabajaba para el espionaje chino", "status": "reportado", "source": "https://gizmodo.com/jensen-huang-resigns-from-nvidia-after-espionage-sex-scandals-2000838005"},
+    {"id": "C13", "text": "Otra relación con una vicepresidenta; pidió perdón públicamente", "status": "reportado", "source": "https://gizmodo.com/jensen-huang-resigns-from-nvidia-after-espionage-sex-scandals-2000838005"},
+    {"id": "C14", "text": "El FBI investiga; Megaspeed investigada por contrabando de chips", "status": "reportado", "source": "https://www.tomshardware.com/tech-industry/policy/president-trump-says-the-fbi-is-investigating-jensen-huangs-affair-nvidia-also-accused-of-intervening-in-megaspeed-chip-smuggling-investigation"}
+  ],
+  "approval": {
+    "outline_aprobado": false,
+    "gancho_elegido": false,
+    "guion_aprobado": false
+  }
+}
