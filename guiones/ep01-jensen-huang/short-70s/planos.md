@@ -58,7 +58,19 @@ look in every frame; no new text, no logos.* Duración 4–5 s, audio apagado.
 | Plano | Imagen | Revisada | Clip | Revisado | Créditos |
 |---|---|---|---|---|---|
 | P01 | ✅ | ✅ | Prueba Kling | ✅ | 320 |
-| P02 | ✅ v1 (ChatGPT) | ✅ | | | 0 |
-| P03 | ✅ Artlist | ✅ | | | 100 |
-| P04 | ✅ Artlist | ✅ | | | 100 |
-| P05–P16 | | | | | |
+| P01 | ✅ | ✅ | ✅ `clips/ep01/ep01-p01.mp4` | ✅ | 320 |
+| P02 | ✅ v1 (ChatGPT) | ✅ | ✅ `ep01-p02.mp4` | ✅ | 320 |
+| P03 | ✅ | ✅ | ✅ `ep01-p03.mp4` | ✅ | 420 |
+| P04 | ✅ | ✅ | ✅ `ep01-p04.mp4` | ⚠️ los amigos cambian un poco de cara a mitad del clip | 420 |
+| P05 | ✅ | ⚠️ el chip no se ve partido | Remotion | | 100 |
+| P06 | ✅ | ✅ | | | 100 |
+| P07 | ✅ | ✅ | | | 100 |
+| P08 | ✅ | ⚠️ el chico de gafas se parece a Jensen joven | | | 100 |
+| P09 | ✅ | ✅ | | | 100 |
+| P10 | ✅ | ✅ | | | 100 |
+| P11 | ✅ | ⚠️ tatuaje en el pecho, no en el hombro | | | 100 |
+| P12 | ✅ | ✅ | | | 100 |
+| P13 | ✅ | ✅ | Remotion | | 100 |
+| P14 | ✅ | ✅ | Remotion | | 100 |
+| P15 | ✅ | ✅ | Remotion | | 100 |
+| P16 | ✅ | ✅ | | | 100 |

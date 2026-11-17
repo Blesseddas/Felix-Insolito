@@ -7,5 +7,7 @@
 | 2026-11-14 | Clip P01, prueba | Kling v3 Standard 720p, 4 s, sin audio | 320 | Prueba |
 | 2026-11-17 | Imagen P03 (Jensen adolescente fregando) | GPT Image 2.6 Medium 1K, 9:16 | 100 | Sí |
 | 2026-11-17 | Imagen P04 (fundación en el reservado) | GPT Image 2.6 Medium 1K, 9:16 | 100 | Sí |
+| 2026-11-17 | Imágenes P05–P16 (12) | GPT Image 2.6 Medium 1K, 9:16 | 1.200 | Sí (P08 y P11 con reparos) |
+| 2026-11-17 | Clips piloto P02, P03, P04 | Kling v3 Standard 720p, 4 s, sin audio | 960 | Sí |
 
-**Total gastado:** 1.640. **Presupuesto del ep01:** unos 8.000 (13 imágenes Medium 1K + 60 s de Kling v3 + 30 % de margen).
+**Total gastado:** 3.800. Clip P01 reutilizado de la prueba (ahorro de 320). **Presupuesto del ep01:** unos 8.000 (13 imágenes Medium 1K + 60 s de Kling v3 + 30 % de margen).
