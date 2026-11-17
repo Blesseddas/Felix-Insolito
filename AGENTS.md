@@ -13,6 +13,8 @@ Válido para ChatGPT, Gemini, Claude y cualquier otro agente. Si una regla choca
   empresa no).
 
 ## Imágenes y vídeo
+- **Mundo 3D premium con contorno negro de línea fina en TODO** (personajes, objetos, decorados, fondo). Guía y
+  bloque de prompt obligatorio en `docs/estilo-mundo.md`. Si el fondo sale sin contorno o fotorrealista, se rehace.
 - Formato vertical **9:16** (1080 × 1920 al final). La cara del personaje entre el 25 % y el 60 % de la altura;
   el tercio inferior libre para subtítulos.
 - Un plano = un fotograma de inicio (y opcionalmente uno de final) → un clip de Kling v3 de 3–5 s.
