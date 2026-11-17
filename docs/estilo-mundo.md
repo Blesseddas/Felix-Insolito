@@ -1,36 +1,22 @@
-# Estilo del mundo de Félix Insólito (obligatorio)
+# Estilo del mundo de Félix Insólito
 
-Todo lo que rodea a Félix (decorados, objetos, edificios, cielos, vehículos, figurantes) es **3D premium con
-contorno negro de línea fina**. Es la seña de identidad del canal: tiene que reconocerse en cualquier fotograma.
+**Decisión del director (17-nov-2026):** el mundo es **3D cartoon premium**, como en los planos 1 y 2 del ep01:
+volumen real, materiales pulidos y brillantes, colores saturados, luz de estudio cálida con contraluz. El contorno
+negro fino en el decorado **ya no es obligatorio**; los personajes mantienen el acabado de sus hojas.
 
 ## Qué SÍ
-- **Volumen 3D real:** formas redondeadas y limpias, materiales con brillo suave, sombras de contacto, profundidad
-  (primer término, plano medio y fondo).
-- **Contorno negro fino y uniforme en TODO:** personajes, muebles, objetos pequeños, paredes, ventanas, edificios del
-  fondo, nubes. El trazo es fino (como una línea de tinta de 1–2 px a 1080p), del mismo grosor en todo el plano.
-- **Sombreado tipo toon:** zonas de luz y sombra bien definidas, con un degradado suave, no fotorrealista.
-- **Colores saturados y limpios:** azul cobalto, rojo tomate, amarillo azafrán, turquesa, violeta; siempre una
-  superficie fría en el encuadre.
-- **Luz cálida principal + contraluz suave**, sin neblina ni grano.
-- **Acabado premium:** detalles cuidados (costuras, tornillos, papeles, reflejos), nada de texturas sucias.
+- Volumen 3D, sombras de contacto, profundidad (primer término, plano medio, fondo).
+- Colores saturados y limpios; siempre una superficie fría en el encuadre.
+- Luz cálida principal + contraluz suave; acabado cuidado y nítido.
+- Personajes exactamente como en sus hojas (`personajes/elenco.md`).
 
 ## Qué NO
-- Nada de 2D plano, recortables ni dibujo a mano sin volumen.
-- Nada de contornos gruesos de cómic ni de contorno solo en los personajes y el fondo sin línea.
-- Nada de fotorrealismo, fondos de foto real ni texturas de foto.
-- Nada de logos, marcas ni textos deformados.
+- 2D plano, fotorrealismo, fondos de foto real.
+- Personas reales con aspecto fotográfico: siempre caricatura como en su hoja.
+- Logos, marcas, textos deformados.
 
-## Bloque de estilo para prompts de imagen (pegar siempre)
-> Premium stylized 3D cartoon world. EVERYTHING in the frame — characters, furniture, props, walls, buildings,
-> background objects, sky and clouds — has clean volumetric 3D shapes AND a THIN, UNIFORM BLACK INK OUTLINE (fine
-> line, same weight across the whole image, like a high-end 3D cartoon with ink contours). Cel-shaded toon lighting
-> with soft gradients, saturated clean colors, warm key light, soft rim light, contact shadows, crisp premium detail.
-> Not flat 2D, not photorealistic, no thick comic outlines, no outline only on characters. No logos, no brand names.
-
-## Frase para prompts de animación (Kling)
-> Keep the premium 3D cartoon look with the thin uniform black ink outline on every object and character in every
-> frame.
-
-## Revisión
-En cada imagen y clip comprobar: ¿tienen contorno fino los objetos del fondo además de los personajes? ¿El grosor es
-igual en todo el plano? Si el fondo sale sin contorno o fotorrealista, se rehace la imagen antes de animar.
+## Bloque de estilo para prompts de imagen
+> Premium stylized 3D cartoon world, like a high-end animated film: clean volumetric shapes, polished materials,
+> saturated colors, warm key light, soft rim light, contact shadows, crisp detail. Characters EXACTLY as on their
+> attached character sheets (stylized caricatures, never photographic). Not flat 2D, not photorealistic. No logos,
+> no brand names.

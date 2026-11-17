@@ -10,15 +10,12 @@ ocurre en el plató, también la imagen del P01 para que el decorado sea el mism
 Imágenes: 16 (gratis en ChatGPT; 1.600 créditos si se hacen en Artlist).
 
 ## Bloque de estilo común (pegar antes de cada prompt de imagen)
-Guía completa: `docs/estilo-mundo.md`.
-> Vertical 9:16 image for a YouTube Short. Premium stylized 3D cartoon world. EVERYTHING in the frame — characters,
-> furniture, props, walls, buildings, background objects, sky and clouds — has clean volumetric 3D shapes AND a THIN,
-> UNIFORM BLACK INK OUTLINE (fine line, same weight across the whole image). Cel-shaded toon lighting with soft
-> gradients, saturated clean colors, warm key light, soft rim light, contact shadows, crisp premium detail. Not flat
-> 2D, not photorealistic, no thick comic outlines, no outline only on characters. Characters EXACTLY as on their
-> attached sheets (stickman premium style: big angular faceted heads, sculpted hair, very thin necks, arms and legs,
-> small low dark shoes). Faces in the upper half; lower third calm for subtitles. No logos, no brand names, no
-> readable text unless asked.
+Guía: `docs/estilo-mundo.md`.
+> Vertical 9:16 image for a YouTube Short. Premium stylized 3D cartoon world, like a high-end animated film: clean
+> volumetric shapes, polished materials, saturated colors, warm key light, soft rim light, contact shadows, crisp
+> detail. Characters EXACTLY as on their attached sheets (stickman premium caricatures: big angular faceted heads,
+> sculpted hair, very thin necks, arms and legs, small low dark shoes; never photographic). Faces in the upper half;
+> lower third calm for subtitles. No logos, no brand names, no readable text unless asked.
 
 ## Planos
 
@@ -46,7 +43,7 @@ Guía completa: `docs/estilo-mundo.md`.
 
 ## Prompts de Kling (en inglés, pegar tal cual)
 Añadir siempre al final: *Keep every character, outfit and set exactly as in the image; keep the premium 3D cartoon
-look with the thin uniform black ink outline on every object and character in every frame; no new text, no logos.* Duración 4–5 s, audio apagado.
+look in every frame; no new text, no logos.* Duración 4–5 s, audio apagado.
 
 ## Seguimiento
 | Plano | Imagen | Revisada | Clip | Revisado | Créditos |
