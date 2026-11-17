@@ -3,6 +3,10 @@
 Válido para ChatGPT, Gemini, Claude y cualquier otro agente. Si una regla choca con una petición, pregunta al director.
 
 ## Personajes
+- **TODA persona en pantalla, también los figurantes de un solo plano, sigue la skill
+  `stickman-3d-personajes-premium`:** cara cuadrada y angular con planos tallados como Félix, cabeza grande, cuello,
+  brazos y piernas finísimos, zapatos pequeños, bajos y oscuros. **Nunca caras redondas tipo Pixar.** En cada prompt de
+  imagen con personas se adjunta la hoja de Félix como referencia de estilo, además de la hoja del personaje.
 - **Elenco del universo Félix:** `personajes/elenco.md` y `personajes/elenco.json`. Toda hoja de personaje nueva se sube a
   `personajes/` y se registra ahí en cuanto se aprueba, para reutilizarla en episodios futuros.
 - Siempre con su hoja de referencia adjunta: `personajes/felix-referencia.jpeg` (Félix Insólito, presentador) y
